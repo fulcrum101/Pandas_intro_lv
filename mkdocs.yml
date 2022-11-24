@@ -1,10 +1,9 @@
 site_name: Python Pandas bibliotēka
-repo_url: https://github.com/fulcrum101/PPS_pandas
+repo_url: https://github.com/fulcrum101/Pandas_intro_lv
 repo_name: fulcrum101/PPS_pandas
 
 theme:
   name: material
-  logo: assets/logo.png
   icon:
     repo: fontawesome/brands/github
   features:
@@ -22,8 +21,9 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
 nav:
-  - index.md
-  - Pandas: pandas.ipynb
+  - pandas.ipynb
+  - Uzdevumi: tasks.md
+  - Saites: links.md
 
 hide:
   - navigation
