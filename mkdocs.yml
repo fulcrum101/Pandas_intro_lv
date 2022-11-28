@@ -21,7 +21,8 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
 nav:
-  - pandas.ipynb
+  -
+  - Pandas: pandas.ipynb
   - Uzdevumi: tasks.md
   - Saites: links.md
 
