@@ -12,3 +12,4 @@
 * [10 min Pandas guide](https://pandas.pydata.org/docs/user_guide/10min.html)
 * [Intro into Pandas](https://pandas.pydata.org/docs/user_guide/dsintro.html)
 * [Pandas basic functionality](https://pandas.pydata.org/docs/user_guide/basics.html)
+* [W3Schools](https://www.w3schools.com/python/pandas)
